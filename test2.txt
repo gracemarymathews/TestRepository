@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is C20C-D498
+
+ Directory of C:\Users\TibiTom\Desktop\MyProject
+
+13-02-2020  10:25    <DIR>          .
+13-02-2020  10:25    <DIR>          ..
+12-02-2020  10:37               399 index.html
+13-02-2020  10:24                68 test1.txt
+13-02-2020  10:25                 0 test2.txt
+               3 File(s)            467 bytes
+               2 Dir(s)  161,255,768,064 bytes free
